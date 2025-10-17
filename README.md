@@ -1,4 +1,5 @@
 # CredTech Explainable Credit Intelligence Platform
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue.svg)](https://improvedhackathonproject-sgubznhywtsadymjbsdysr.streamlit.app/)
 
 A real-time, explainable credit scoring platform built for the CredTech Hackathon that provides transparent creditworthiness assessments using interpretable machine learning models.
 
